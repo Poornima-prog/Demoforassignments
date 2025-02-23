@@ -1,0 +1,5 @@
+Rule no   Condition 1    Condition 2   Condition 3 Action 1    Action 2 
+1          True          True           True       Eligible 
+2          True          False          True	   Eligible
+3          False         True           True       Eligible
+4          False         False          False                  Not eligible
